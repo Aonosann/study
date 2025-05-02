@@ -1,0 +1,13 @@
+body {
+    background-color: #c5cace; /*背景の色*/
+  }
+  
+  h1{
+    font-size: xx-large;
+    text-align: center; /*テキスト位置*/
+    color: rgb(72, 161, 202); /*テキストの色*/
+  }
+  .red-text {color: red;}
+  .blue-text {color: blue;}
+  .green-text {color: green;}  
+  p {font-size: x-large;}
